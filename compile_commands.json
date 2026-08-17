@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/smv/temp/kal/build",
+  "command": "/usr/sbin/c++ -I/home/smv/temp/kal/include -o CMakeFiles/kal.dir/main.cpp.o -c /home/smv/temp/kal/main.cpp",
+  "file": "/home/smv/temp/kal/main.cpp",
+  "output": "/home/smv/temp/kal/build/CMakeFiles/kal.dir/main.cpp.o"
+}
+]
